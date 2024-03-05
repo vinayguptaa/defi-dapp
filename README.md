@@ -68,6 +68,7 @@ In backend the code is as follows:
 The balance will no again be 100 mDAI.
 ![image](https://github.com/vinayguptaa/defi-dapp/assets/47681912/a95fb6da-fe65-42e8-96e7-cd7fa813c4f6)
 The code in backend is:
-![image](https://github.com/vinayguptaa/defi-dapp/assets/47681912/4d7ef532-17af-4038-af09-2ab11f59db3a)
+![image](https://github.com/vinayguptaa/defi-dapp/assets/47681912/5d3656cc-2f6f-433e-be2a-0e6a2bf4ec85)
 Now once again we need to give permission in Metamask to unstake the tokens:
-![Uploading image.png…]()
+![image](https://github.com/vinayguptaa/defi-dapp/assets/47681912/e3582f76-4c48-464d-8e84-6bfcbaefab8b)
+
